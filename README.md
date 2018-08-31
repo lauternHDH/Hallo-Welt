@@ -7,3 +7,4 @@ Sounds it is a very cool staaf to collaborate with other `Geets` in the world.
 > This is from Mr. Mao
 
 李飞飞 cs231n
+[Assignment translated into chinese](http://op.inews.qq.com/m/20180207A0GNWA00?refer=100000355&chl_code=kb_news_tech&h=0)
