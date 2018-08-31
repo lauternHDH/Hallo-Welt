@@ -7,6 +7,6 @@ Sounds it is a very cool staaf to collaborate with other `Geets` in the world.
 
 李飞飞 cs231n
 
-[Assignment translated into chinese](http://op.inews.qq.com/m/20180207A0GNWA00?refer=100000355&chl_code=kb_news_tech&h=0)  
-[CS231n官方笔记授权翻译总集篇发布](https://zhuanlan.zhihu.com/p/21930884)
+1. [Assignment translated into chinese](http://op.inews.qq.com/m/20180207A0GNWA00?refer=100000355&chl_code=kb_news_tech&h=0)  
+2. [CS231n官方笔记授权翻译总集篇发布](https://zhuanlan.zhihu.com/p/21930884)
 
