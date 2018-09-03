@@ -7,3 +7,9 @@ Sounds it is a very cool staaf to collaborate with other `Geeks` in the world.
 1. [Assignment translated into chinese](http://op.inews.qq.com/m/20180207A0GNWA00?refer=100000355&chl_code=kb_news_tech&h=0)  
 2. [CS231n官方笔记授权翻译总集篇发布](https://zhuanlan.zhihu.com/p/21930884)
 
+分类和回归的区别在于输出变量的类型。  
+定量输出称为回归，或者说是连续变量预测。找到最有拟合。  
+定性输出称为分类，或者说是离散变量预测。寻找决策边界。  
+举个例子：  
+预测明天的气温是多少度，这是一个回归任务。  
+预测明天是阴、晴还是雨，就是一个分类任务。  
