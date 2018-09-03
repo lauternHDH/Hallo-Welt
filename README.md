@@ -1,6 +1,7 @@
 # Hallo-Welt
 Test how to use Github
-Sounds it is a very cool staaf to collaborate with other `Geeks` in the world.
+Sounds it is a very cool staaf to collaborate with other `Geeks` in the world.  
+没有万能的算法，只有在一定使用环境中最优的算法。  
 
 李飞飞 cs231n
 
@@ -20,6 +21,16 @@ Sounds it is a very cool staaf to collaborate with other `Geeks` in the world.
 
 ## K-NearestNeighbor  
 邻近分类算法是数据挖掘分类技术中最简单的方法之一。 说的是每个样本都可以用它最接近的k个邻居来代表。  
+kNN算法的指导思想是“近朱者赤，近墨者黑”，由你的邻居来推断出你的类别。 
+
+欧式距离：  
+马氏距离：马氏距离能够缓解由于属性的线性组合带来的距离失真，是数据的协方差矩阵。  
+曼哈顿距离：  
+切比雪夫距离：  
+闵氏距离：r取值为2时：曼哈顿距离；r取值为1时：欧式距离。   
+平均距离：  
+弦距离：  
+测地距离：  
 
 ## SVM  
 这些点，在几何空间中也表示向量，那么就把这些能够用来确定超平面的向量称为支持向量（直接支持超平面的生成），于是该算法就叫做支持向量机了。   
