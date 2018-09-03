@@ -1,6 +1,8 @@
 # Hallo-Welt
 Test how to use Github
 Sounds it is a very cool staaf to collaborate with other `Geeks` in the world.  
+对于找工作解决实际问题而言：数据（代表着分布式系统领域）>特征（数据挖掘与自然语言处理与图像）>模型（机器学习）。  
+机器学习和数据挖掘是两个相差的比较多的领域，机器学习比较偏向数学问题的推导，所以在顶会上的很多paper更看重idea，不是很看重实验是否来源于真实数据（有一些实验数据会自己构造。而数据挖掘说土点就是老子就是会feature~的领域。  
 没有万能的算法，只有在一定使用环境中最优的算法。  
 
 李飞飞 cs231n
