@@ -4,6 +4,8 @@ ToDo:
 大图很好(https://blog.csdn.net/linxid/article/details/79104130)  
 from-import导入import后面的模块或者函数；import导入import后面的模块或者函数。二者都是要引用import后面的路径。  
 
+从python2.6开始，with就成为默认关键字了。With是一个控制流语句，跟if for while try之类的是一类，with可以用来简化try-finally代码，看起来比try finally更清晰，所以说with用很优雅的方式处理上下文环境产生的异常。  
+
 对于找工作解决实际问题而言：数据（代表着分布式系统领域）>特征（数据挖掘与自然语言处理与图像）>模型（机器学习）。  
 机器学习和数据挖掘是两个相差的比较多的领域，机器学习比较偏向数学问题的推导，所以在顶会上的很多paper更看重idea，不是很看重实验是否来源于真实数据（有一些实验数据会自己构造。而数据挖掘说土点就是老子就是会feature~的领域。  
 没有万能的算法，只有在一定使用环境中最优的算法。  
