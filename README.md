@@ -1,3 +1,4 @@
+  
 # Hallo-Welt
 ToDo:  
 
@@ -13,7 +14,8 @@ from-import导入import后面的模块或者函数；import导入import后面的
 李飞飞 cs231n
 
 1. [Assignment translated into chinese](http://op.inews.qq.com/m/20180207A0GNWA00?refer=100000355&chl_code=kb_news_tech&h=0)  
-2. [CS231n官方笔记授权翻译总集篇发布](https://zhuanlan.zhihu.com/p/21930884)
+2. [CS231n官方笔记授权翻译总集篇发布](https://zhuanlan.zhihu.com/p/21930884)  
+3. [IPython Notebook 和 Github 是怎样改变了我的 Python 教学方法](https://wenku.baidu.com/view/08d5391c7275a417866fb84ae45c3b3566ecdd44.html)  
 
 # Supervised Learning: Classification and Regression 
 分类和回归的区别在于输出变量的类型。  
