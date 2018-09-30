@@ -1,4 +1,3 @@
-
 # Hallo-Welt
 ToDo:  
 
@@ -54,4 +53,6 @@ kNN算法的指导思想是“近朱者赤，近墨者黑”，由你的邻居�
 无监督学习显然难度要更大，在只有特征没有标签的训练数据集中，通过数据之间的内在联系和相似性将他们分成若干类。    
 Google新闻按照内容结构的不同分成财经，娱乐，体育等不同的标签，这就是一种聚类。   
 
-$$ J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}^{2m + \alpha} \text {，独立公式示例} $$
+$$ J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}^{2m + \alpha} \text {，独立公式示例} $$  
+
+
